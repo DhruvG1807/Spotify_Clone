@@ -38,6 +38,10 @@ nav ul li{
     font-size: 1.3rem;
 }
 
+#masterSongName{
+    padding: 2vw;
+}
+
 .container{
     min-height: 72vh;
     background-color: black;
